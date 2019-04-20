@@ -4,5 +4,8 @@
 ![licence](https://img.shields.io/github/license/shubhampal98/MarketPlace.svg)
 ![David](https://img.shields.io/david/shubhampal98/MarketPlace.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shubhampal98/MarketPlace.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/shubhampal98/MarketPlace/badge.svg?targetFile=package.json)](https://snyk.io/test/github/shubhampal98/MarketPlace?targetFile=package.json)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/shubhampal98/MarketPlace.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/shubhampal98/MarketPlace/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/shubhampal98/MarketPlace.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/shubhampal98/MarketPlace/context:javascript)
 
 ## Testing Marketplace Apps
