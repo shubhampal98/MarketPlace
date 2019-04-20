@@ -1,1 +1,1 @@
-## Testing MArketplace Apps
+## Testing Marketplace Apps
