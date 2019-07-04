@@ -5,7 +5,9 @@
   "scripts": {
     "start": "node ./bin/www",
     "debug": "DEBUG=marketplace:* npm start",
-    "lint": "eslint app.js"
+    "lint": "eslint app.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
@@ -13,11 +15,13 @@
     "express": "~4.17.1",
     "hbs": "~4.0.1",
     "http-errors": "~1.7.2",
-    "morgan": "~1.9.0"
+    "morgan": "~1.9.0",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.17.3"
-  }
+  },
+  "snyk": true
 }
